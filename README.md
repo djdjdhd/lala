@@ -1,2 +1,2 @@
 # lala
-a filefinder by lucence
+a filefinder by lucene
